@@ -1,10 +1,10 @@
-# "Web Payments and the future of online purchases" - FullStack 2017
+# "The Samsung Internet Story: Why Samsung Made A Web Browser" - Coldfront 2017
 
-My slides for [FullStack 2017](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things). 
+My slides for [Coldfront 2017](https://2017.coldfront.co/). 
 
 ## To view the slides
 
-Check them out at: https://poshaughnessy.github.io/web-payments-fullstack-2017/
+Check them out at: *link coming soon*
 
 Use arrow keys or the arrow buttons to move left/right.
 
