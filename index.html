@@ -12,12 +12,11 @@
 
 /* Theme Styles */
 body {
-  font-family: 'Press Start 2P', 'Helvetica', sans-serif;
+  font-family: 'Goudy Bookletter 1911', serif;
   font-size: 80%;
   text-align: center;
   overflow: hidden;
-  color: #ccc;
-  text-shadow: 1px 1px 0 #000;
+  color: #3d3d3d;
 }
 
 html,
@@ -65,6 +64,10 @@ body {
 
 .no-margin {
   margin: 0;
+}
+
+.contact {
+  margin-top: 1.5em;
 }
 
 .contact p {
@@ -234,11 +237,11 @@ p {
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: #222;
 }
 
 a:hover {
-  color: #fff;
+  color: #111;
   text-decoration: underline;
 }
 
@@ -525,9 +528,6 @@ pre .xml .cdata {
 }
 
 /* Common slide contents */
-.contact {
-  margin-top: 3em;
-}
 
 .credit {
   position: absolute;
@@ -623,7 +623,7 @@ h2 + .quote {
   background-color: #fff;
   background-size: cover;
   background-position: center center;
-  box-shadow: inset 0 0 5em 1em #000; /* Vignette */
+  box-shadow: inset 0 0 5em 1em rgba(10, 10, 10, 0.7); /* Vignette */
   width: 100%;
   height: 100%;
 }
@@ -642,9 +642,17 @@ h2 + .quote {
 
 /* Slide specific styles here */
 
+#slide-1 img {
+  margin-top: 1.5em;
+  height: 2em;
+}
+
+#slide-2 h2:first-letter {
+  font-size: 1.5em;
+}
 
   </style>
-  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911" rel="stylesheet">
   <link rel="icon" href="images/favicon.png" type=”image/png">
   <link rel="manifest" href="manifest.json">
   <!-- Twitter Card data -->
@@ -669,6 +677,7 @@ h2 + .quote {
   <div class="slide" id="slide-1">
     <section class="slide-content"><h1 id="the-samsung-internet-story">The Samsung Internet Story</h1>
 <h2 id="why-samsung-made-a-web-browser">Why Samsung Made a Web Browser</h2>
+<p><img src="images/sbrowser5.4.png" alt="Samsung Internet logo"></p>
 <div class="contact">
   <p class="social"><a href="https://twitter.com/poshaughnessy">@poshaughnessy</a></p>
   <p class="social"><a href="https://twitter.com/samsunginternet">@samsunginternet</a></p>
