@@ -23,4 +23,10 @@ controls: false
 
 --
 
+> "A **major handset manufacturer** - based near London - are looking for web developer / advocate to support developers building web applications on top of **their browser**...”
+
+-- samsunglogo
+
+![Samsung logo](images/samsung-logo-blue-question.svg)
+
 

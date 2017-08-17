@@ -646,3 +646,8 @@ h2 + .quote {
 .slide.linkedin:before {
   background-image: url(images/linkedin.png);
 }
+
+.slide.samsunglogo img {
+  width: 70%;
+}
+
