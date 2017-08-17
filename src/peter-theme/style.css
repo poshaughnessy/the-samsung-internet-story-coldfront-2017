@@ -642,3 +642,7 @@ h2 + .quote {
 #slide-2 h2:first-letter {
   font-size: 1.5em;
 }
+
+.slide.linkedin:before {
+  background-image: url(images/linkedin.png);
+}
