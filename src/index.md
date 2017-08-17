@@ -29,4 +29,9 @@ controls: false
 
 ![Samsung logo](images/samsung-logo-blue-question.svg)
 
+--
+
+![Samsung Internet](images/sbrowser4.png)
+
+## "Samsung Internet"?
 
