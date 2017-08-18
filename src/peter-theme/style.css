@@ -156,7 +156,7 @@ h1 {
 }
 
 h2 {
-  font-size: 175%;
+  font-size: 200%;
   line-height: 1.4;
 }
 
@@ -165,7 +165,7 @@ h2:last-child {
 }
 
 h3 {
-  margin: 0.5em 0 1em 0;
+  margin: 0 0 1em 0;
   font-size: 150%;
   line-height: 1.4;
   border-bottom: none;
@@ -228,6 +228,7 @@ p {
 }
 
 a {
+  text-decoration: none;
   color: #111;
 }
 
@@ -654,7 +655,7 @@ h2 + .quote {
 }
 
 .history .container {
-  margin: 0.5em 0;
+  margin: 0.5em 0 0 0;
 }
 
 .history .container:after {

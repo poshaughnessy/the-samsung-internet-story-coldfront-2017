@@ -37,8 +37,6 @@ controls: false
 
 -- history
 
-### Up until then...
-
 <div class="container">
     <div>
       <h3>v1</h3>
@@ -62,7 +60,7 @@ controls: false
     </div>
 </div>
 
-<div class="caption">[Samsung Internet browser version rough guide](https://gist.github.com/poshaughnessy/5718717a04db20a02e9fdb3fc16e2258)</div>
+<div class="caption">2012-2016. See also: [Samsung Internet browser version rough guide](https://gist.github.com/poshaughnessy/5718717a04db20a02e9fdb3fc16e2258)</div>
 
 -- img-with-header
 
@@ -75,4 +73,12 @@ controls: false
 ![Laszlo Gombos](images/laszlogombos.jpg)
 
 #### Laszlo Gombos ([@laszlogombos](https://twitter.com/laszlogombos))
+
+--
+
+## [~400 million active users](https://www.smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/).
+
+### &ldquo;The biggest browser you've probably never heard of&rdquo;
+
+
 
