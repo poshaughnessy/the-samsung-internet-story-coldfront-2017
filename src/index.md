@@ -84,7 +84,7 @@ controls: false
 
 # Be good.
 
-![Good boy. Canine good citizen.](images/goodcitizen2.jpg)
+![Good boy. Canine good citizen.](images/goodcitizen1.jpg)
 
 <div class="credit">[Jon Hurd](https://www.flickr.com/photos/jonhurd/45162940)</div>
 
