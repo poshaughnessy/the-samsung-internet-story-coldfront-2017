@@ -62,5 +62,11 @@ controls: false
     </div>
 </div>
 
-<div class="caption">Hopefully accurate, although the exact history is somewhat lost in the sands of time!</div>
+<div class="caption">[Samsung Internet browser version rough guide](https://gist.github.com/poshaughnessy/5718717a04db20a02e9fdb3fc16e2258)</div>
+
+-- img-with-header
+
+![Daniel Appelquist](images/danielappelquist.jpg)
+
+#### Daniel Appelquist
 
