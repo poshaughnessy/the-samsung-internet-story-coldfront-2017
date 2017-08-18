@@ -80,5 +80,17 @@ controls: false
 
 ### &ldquo;The biggest browser you've probably never heard of&rdquo;
 
+--
 
+# Be good.
+
+![Good boy. Canine good citizen.](images/goodcitizen2.jpg)
+
+<div class="credit">[Jon Hurd](https://www.flickr.com/photos/jonhurd/45162940)</div>
+
+-- img-with-header
+
+![PWA Dev Summit](images/pwa-dev-summit-dan-jungkee.jpg)
+
+### PWA Dev Summit, June 2016
 
