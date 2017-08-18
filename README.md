@@ -4,7 +4,7 @@ My slides for [Coldfront 2017](https://2017.coldfront.co/).
 
 ## To view the slides
 
-Check them out at: *link coming soon*
+(In progress!) They're at: https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/
 
 Use arrow keys or the arrow buttons to move left/right.
 
