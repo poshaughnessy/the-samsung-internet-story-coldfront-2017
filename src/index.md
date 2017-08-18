@@ -62,13 +62,13 @@ controls: false
 
 <div class="caption">2012-2016. See also: [Samsung Internet browser version rough guide](https://gist.github.com/poshaughnessy/5718717a04db20a02e9fdb3fc16e2258)</div>
 
--- img-with-header
+-- img-with-header profile
 
 ![Daniel Appelquist](images/danielappelquist.jpg)
 
 #### Daniel Appelquist ([@torgo](https://twitter.com/torgo))
 
--- img-with-header
+-- img-with-header profile
 
 ![Laszlo Gombos](images/laszlogombos.jpg)
 
@@ -92,5 +92,19 @@ controls: false
 
 ![PWA Dev Summit](images/pwa-dev-summit-dan-jungkee.jpg)
 
-### PWA Dev Summit, June 2016
+#### Daniel & Jungkee Song ([@jungkees](https://twitter.com/jungkees)), PWA Dev Summit, June 2016
+
+-- img-with-header
+
+## Forming a team
+
+![Lego A-Team](images/lego-a-team.jpg)
+
+<div class="credit">[ThomasW](https://ideas.lego.com/profile/ThomasW)</div>
+
+-- img-with-header profile
+
+![Ada Rose Edwards](images/adaedwards.jpg)
+
+#### Ada Rose Edwards ([@lady_ada_king](https://twitter.com/lady_ada_king))
 
