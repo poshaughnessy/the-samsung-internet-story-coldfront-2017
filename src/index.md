@@ -108,3 +108,9 @@ controls: false
 
 #### Ada Rose Edwards ([@lady_ada_king](https://twitter.com/lady_ada_king))
 
+-- img-with-header profile
+
+![Diego González-Zúñiga](images/diegogonzalez.jpg)
+
+#### Diego González-Zúñiga ([@diekus](https://twitter.com/diekus))
+
