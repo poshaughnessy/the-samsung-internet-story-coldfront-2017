@@ -560,6 +560,10 @@ pre .xml .cdata {
   max-height: calc(100vh - 6em);
 }
 
+.img-with-header.pictureframe img {
+  max-height: calc(100vh - 8em);
+}
+
 .slide .pun {
   color: #c4c3f5;
   font-size: 1em;
@@ -615,7 +619,8 @@ h2 + .quote {
   background-color: #fff;
   background-size: cover;
   background-position: center center;
-  box-shadow: inset 0 0 5em 1em rgba(10, 10, 10, 0.7); /* Vignette */
+  background-image: url(images/old-parchment-lighter.jpg);
+  box-shadow: inset 0 0 5em 1em rgba(10, 10, 10, 0.5); /* Vignette */
   width: 100%;
   height: 100%;
 }
@@ -635,7 +640,7 @@ h2 + .quote {
 }
 
 .slide.linkedin:before {
-  background-image: url(images/linkedin.png);
+  background-image: url(images/linkedin-parchment.jpg);
 }
 
 .slide.samsunglogo img {
@@ -680,6 +685,30 @@ h2 + .quote {
   width: 400px;
 }
 
+.pictureframe img {
+  border-image: url(images/picture-frame-smaller.png) 40 repeat;
+  border-width: 40px;
+  border-style: inset; 
+}
+
 .goodcitizen h1 {
   margin-top: 1em;
+}
+
+.simpsons img {
+  width: 60%;
+}
+
+.survey .legend {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+}
+
+.survey .legend.red {
+  background-color: #f05b4f;
+}
+
+.survey .legend.yellow {
+  background-color: #f4c63d;
 }

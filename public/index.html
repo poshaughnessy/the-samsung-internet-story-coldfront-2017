@@ -568,6 +568,10 @@ pre .xml .cdata {
   max-height: calc(100vh - 6em);
 }
 
+.img-with-header.pictureframe img {
+  max-height: calc(100vh - 8em);
+}
+
 .slide .pun {
   color: #c4c3f5;
   font-size: 1em;
@@ -623,7 +627,8 @@ h2 + .quote {
   background-color: #fff;
   background-size: cover;
   background-position: center center;
-  box-shadow: inset 0 0 5em 1em rgba(10, 10, 10, 0.7); /* Vignette */
+  background-image: url(images/old-parchment-lighter.jpg);
+  box-shadow: inset 0 0 5em 1em rgba(10, 10, 10, 0.5); /* Vignette */
   width: 100%;
   height: 100%;
 }
@@ -643,7 +648,7 @@ h2 + .quote {
 }
 
 .slide.linkedin:before {
-  background-image: url(images/linkedin.png);
+  background-image: url(images/linkedin-parchment.jpg);
 }
 
 .slide.samsunglogo img {
@@ -688,8 +693,32 @@ h2 + .quote {
   width: 400px;
 }
 
+.pictureframe img {
+  border-image: url(images/picture-frame-smaller.png) 40 repeat;
+  border-width: 40px;
+  border-style: inset; 
+}
+
 .goodcitizen h1 {
   margin-top: 1em;
+}
+
+.simpsons img {
+  width: 60%;
+}
+
+.survey .legend {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+}
+
+.survey .legend.red {
+  background-color: #f05b4f;
+}
+
+.survey .legend.yellow {
+  background-color: #f4c63d;
 }
 
   </style>
@@ -772,12 +801,12 @@ h2 + .quote {
 
 <div class="caption">2012-2016. See also: <a href="https://gist.github.com/poshaughnessy/5718717a04db20a02e9fdb3fc16e2258">Samsung Internet browser version rough guide</a></div></section>
   </div>
-  <div class="slide hidden  img-with-header profile" id="slide-8">
+  <div class="slide hidden  img-with-header profile pictureframe" id="slide-8">
     <section class="slide-content"><p><img src="images/danielappelquist.jpg" alt="Daniel Appelquist"></p>
 <h4 id="daniel-appelquist-torgo-https-twitter-com-torgo-">Daniel Appelquist (<a href="https://twitter.com/torgo">@torgo</a>)</h4>
 </section>
   </div>
-  <div class="slide hidden  img-with-header profile" id="slide-9">
+  <div class="slide hidden  img-with-header profile pictureframe" id="slide-9">
     <section class="slide-content"><p><img src="images/laszlogombos.jpg" alt="Laszlo Gombos"></p>
 <h4 id="laszlo-gombos-laszlogombos-https-twitter-com-laszlogombos-">Laszlo Gombos (<a href="https://twitter.com/laszlogombos">@laszlogombos</a>)</h4>
 </section>
@@ -792,25 +821,38 @@ h2 + .quote {
 <p><img src="images/goodcitizen1.jpg" alt="Good boy. Canine good citizen."></p>
 <div class="credit"><a href="https://www.flickr.com/photos/jonhurd/45162940">Jon Hurd</a></div></section>
   </div>
-  <div class="slide hidden  img-with-header" id="slide-12">
+  <div class="slide hidden  img-with-header pictureframe" id="slide-12">
     <section class="slide-content"><p><img src="images/pwa-dev-summit-dan-jungkee.jpg" alt="PWA Dev Summit"></p>
 <h4 id="daniel-jungkee-song-jungkees-https-twitter-com-jungkees-pwa-dev-summit-june-2016">Daniel &amp; Jungkee Song (<a href="https://twitter.com/jungkees">@jungkees</a>), PWA Dev Summit, June 2016</h4>
 </section>
   </div>
-  <div class="slide hidden  img-with-header" id="slide-13">
+  <div class="slide hidden  img-with-header pictureframe" id="slide-13">
     <section class="slide-content"><h2 id="forming-a-team">Forming a team</h2>
 <p><img src="images/lego-a-team.jpg" alt="Lego A-Team"></p>
 <div class="credit"><a href="https://ideas.lego.com/profile/ThomasW">ThomasW</a></div></section>
   </div>
-  <div class="slide hidden  img-with-header profile" id="slide-14">
+  <div class="slide hidden  img-with-header profile pictureframe" id="slide-14">
     <section class="slide-content"><p><img src="images/adaedwards.jpg" alt="Ada Rose Edwards"></p>
 <h4 id="ada-rose-edwards-lady_ada_king-https-twitter-com-lady_ada_king-">Ada Rose Edwards (<a href="https://twitter.com/lady_ada_king">@lady_ada_king</a>)</h4>
 </section>
   </div>
-  <div class="slide hidden  img-with-header profile" id="slide-15">
+  <div class="slide hidden  img-with-header profile pictureframe" id="slide-15">
     <section class="slide-content"><p><img src="images/diegogonzalez.jpg" alt="Diego González-Zúñiga"></p>
 <h4 id="diego-gonz-lez-z-iga-diekus-https-twitter-com-diekus-">Diego González-Zúñiga (<a href="https://twitter.com/diekus">@diekus</a>)</h4>
 </section>
+  </div>
+  <div class="slide hidden  simpsons" id="slide-16">
+    <section class="slide-content"><p><img src="images/simpsons-mountain-to-climb.gif" alt="Mountain to climb"></p>
+</section>
+  </div>
+  <div class="slide hidden  survey" id="slide-17">
+    <section class="slide-content"><p><img src="images/awareness-survey.png" alt="Awareness survey - 63% aware of Samsung Internet"></p>
+<h4><span class="legend red"></span> Aware of Samsung Internet <span class="legend yellow"></span> Not Aware of Samsung Internet</h4>
+
+<div class="caption">Source: <a href="https://twitter.com/poshaughnessy/status/846813031178874880">Twitter poll, March 2017</a> - 761 votes</div></section>
+  </div>
+  <div class="slide hidden" id="slide-18">
+    <section class="slide-content"></section>
   </div>
 
 

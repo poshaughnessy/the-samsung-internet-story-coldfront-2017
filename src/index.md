@@ -62,13 +62,13 @@ controls: false
 
 <div class="caption">2012-2016. See also: [Samsung Internet browser version rough guide](https://gist.github.com/poshaughnessy/5718717a04db20a02e9fdb3fc16e2258)</div>
 
--- img-with-header profile
+-- img-with-header profile pictureframe
 
 ![Daniel Appelquist](images/danielappelquist.jpg)
 
 #### Daniel Appelquist ([@torgo](https://twitter.com/torgo))
 
--- img-with-header profile
+-- img-with-header profile pictureframe
 
 ![Laszlo Gombos](images/laszlogombos.jpg)
 
@@ -88,13 +88,13 @@ controls: false
 
 <div class="credit">[Jon Hurd](https://www.flickr.com/photos/jonhurd/45162940)</div>
 
--- img-with-header
+-- img-with-header pictureframe
 
 ![PWA Dev Summit](images/pwa-dev-summit-dan-jungkee.jpg)
 
 #### Daniel & Jungkee Song ([@jungkees](https://twitter.com/jungkees)), PWA Dev Summit, June 2016
 
--- img-with-header
+-- img-with-header pictureframe
 
 ## Forming a team
 
@@ -102,15 +102,28 @@ controls: false
 
 <div class="credit">[ThomasW](https://ideas.lego.com/profile/ThomasW)</div>
 
--- img-with-header profile
+-- img-with-header profile pictureframe
 
 ![Ada Rose Edwards](images/adaedwards.jpg)
 
 #### Ada Rose Edwards ([@lady_ada_king](https://twitter.com/lady_ada_king))
 
--- img-with-header profile
+-- img-with-header profile pictureframe
 
 ![Diego González-Zúñiga](images/diegogonzalez.jpg)
 
 #### Diego González-Zúñiga ([@diekus](https://twitter.com/diekus))
 
+-- simpsons
+
+![Mountain to climb](images/simpsons-mountain-to-climb.gif)
+
+-- survey
+
+![Awareness survey - 63% aware of Samsung Internet](images/awareness-survey.png)
+
+<h4><span class="legend red"></span> Aware of Samsung Internet <span class="legend yellow"></span> Not Aware of Samsung Internet</h4>
+
+<div class="caption">Source: [Twitter poll, March 2017](https://twitter.com/poshaughnessy/status/846813031178874880) - 761 votes</div>
+
+--
