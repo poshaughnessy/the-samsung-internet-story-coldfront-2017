@@ -68,5 +68,5 @@ controls: false
 
 ![Daniel Appelquist](images/danielappelquist.jpg)
 
-#### Daniel Appelquist
+#### Daniel Appelquist ([@torgo](https://twitter.com/torgo))
 
