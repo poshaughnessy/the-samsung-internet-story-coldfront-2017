@@ -703,6 +703,7 @@ h2 + .quote {
   display: inline-block;
   height: 1em;
   width: 1em;
+  vertical-align: sub;
 }
 
 .survey .legend.red {
@@ -711,4 +712,5 @@ h2 + .quote {
 
 .survey .legend.yellow {
   background-color: #f4c63d;
+  margin-left: 1.2em;
 }

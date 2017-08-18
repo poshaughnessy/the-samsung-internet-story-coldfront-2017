@@ -80,7 +80,7 @@ controls: false
 
 ### &ldquo;The biggest browser you've probably never heard of&rdquo;
 
---
+-- img-with-header pictureframe
 
 # Be good.
 
@@ -96,9 +96,9 @@ controls: false
 
 -- img-with-header pictureframe
 
-## Forming a team
-
 ![Lego A-Team](images/lego-a-team.jpg)
+
+#### Forming a team
 
 <div class="credit">[ThomasW](https://ideas.lego.com/profile/ThomasW)</div>
 
@@ -114,15 +114,15 @@ controls: false
 
 #### Diego González-Zúñiga ([@diekus](https://twitter.com/diekus))
 
--- simpsons
+-- simpsons pictureframe
 
 ![Mountain to climb](images/simpsons-mountain-to-climb.gif)
 
 -- survey
 
-![Awareness survey - 63% aware of Samsung Internet](images/awareness-survey.png)
+![Awareness survey - 63% aware of Samsung Internet](images/awareness-survey-shadow.png)
 
-<h4><span class="legend red"></span> Aware of Samsung Internet <span class="legend yellow"></span> Not Aware of Samsung Internet</h4>
+<h4><span class="legend red"></span> Not Aware of Samsung Internet <span class="legend yellow"></span> Aware of Samsung Internet</h4>
 
 <div class="caption">Source: [Twitter poll, March 2017](https://twitter.com/poshaughnessy/status/846813031178874880) - 761 votes</div>
 
