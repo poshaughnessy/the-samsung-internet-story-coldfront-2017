@@ -651,3 +651,27 @@ h2 + .quote {
   width: 70%;
 }
 
+.history .container {
+  margin: 2em 0;
+}
+
+.history .container:after {
+  content: "";
+  clear: left;
+}
+
+.history .container div {
+  max-width: 25%;
+  box-sizing: border-box;
+  float: left;
+  padding: 1em;
+}
+
+.history .container img {
+  width: 60%;
+  margin-bottom: 1em;
+}
+
+.history .container p {
+  font-size: 0.9em;
+}
