@@ -70,3 +70,9 @@ controls: false
 
 #### Daniel Appelquist ([@torgo](https://twitter.com/torgo))
 
+-- img-with-header
+
+![Laszlo Gombos](images/laszlogombos.jpg)
+
+#### Laszlo Gombos ([@laszlogombos](https://twitter.com/laszlogombos))
+
