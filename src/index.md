@@ -172,6 +172,12 @@ controls: false
 
 <div class="caption">Shot down!</div>
 
+-- img-with-header pictureframe
+
+![Wikipedia article draft which got shot down](images/wikipedia-rejection.png)
+
+<div class="caption">Shot down!</div>
+
 --
 
 ## To Be Continued.

@@ -692,7 +692,7 @@ h2 + .quote {
 }
 
 .pictureframe img {
-  border-image: url(images/picture-frame-smaller.png) 40 repeat;
+  border-image: url(images/picture-frame-smaller-modified.png) 40 repeat;
   border-width: 40px;
   border-style: inset; 
 }
