@@ -124,6 +124,8 @@ controls: false
 
 ![Mountain to climb](images/simpsons-mountain-to-climb.gif)
 
+##### The task ahead
+
 -- survey
 
 ![Awareness survey - 63% aware of Samsung Internet](images/awareness-survey-shadow.png)
@@ -132,10 +134,28 @@ controls: false
 
 <div class="caption">Source: [Twitter poll, March 2017](https://twitter.com/poshaughnessy/status/846813031178874880) - 761 votes</div>
 
+-- img-with-header pictureframe
+
+![HTML5Test tweet about Samsung Internet not showing up in Google Analytics](images/googleanalytics-tweet.png)
+
+<div class="caption">It should finally be added to Google Analytics any day now!</div>
+
 --
 
 > &ldquo;Why did samsung build its own browser?&rdquo;
 
 > &ldquo;Yet another one to test!&rdquo;
+
+> &ldquo;Just give up on the Samsung stock browser and preload Chrome&rdquo;
+
+<div class="caption">Developer reactions</div>
+
+--
+
+> &ldquo;I’m not going to buy a Samsung phone just to test on your browser!&rdquo;
+
+<div class="caption">Our (only) solution for non-Samsung users was the [Remote Test Lab](http://developer.samsung.com/rtlLanding.do)</div>
+
+--
 
 

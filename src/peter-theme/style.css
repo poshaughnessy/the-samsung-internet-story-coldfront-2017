@@ -211,10 +211,6 @@ li code {
 blockquote {
   font-style: italic;
   font-size: 1.75em;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
   margin: 0;
 }
 
