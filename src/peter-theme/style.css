@@ -563,6 +563,11 @@ pre .xml .cdata {
 
 .img-with-header.pictureframe img {
   max-height: calc(100vh - 8em);
+  max-width: calc(95vw - 120px);
+}
+
+.line-dividers img {
+  height: 1em;
 }
 
 .slide .pun {

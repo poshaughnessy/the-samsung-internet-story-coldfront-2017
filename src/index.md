@@ -144,13 +144,17 @@ controls: false
 
 ![Tweet about Samsung Internet not showing up in caniuse.com](images/caniuse-tweet.png)
 
-<div class="caption">v4 was added in July 2016 and v5 in May 2017!</div>
+<div class="caption">v4 was since added in July 2016 and v5 in May 2017</div>
 
---
+-- line-dividers
 
 > &ldquo;Why did samsung build its own browser?&rdquo;
 
+![Line divider](images/line-divider.svg)
+
 > &ldquo;Yet another one to test!&rdquo;
+
+![Line divider](images/line-divider.svg)
 
 > &ldquo;Just give up on the Samsung stock browser and preload Chrome&rdquo;
 
@@ -161,6 +165,12 @@ controls: false
 > &ldquo;I’m not going to buy a Samsung phone just to test on your browser!&rdquo;
 
 <div class="caption">Our (only) solution for non-Samsung users was the [Remote Test Lab](http://developer.samsung.com/rtlLanding.do)</div>
+
+-- img-with-header pictureframe
+
+![Stack Overflow tag request which got shot down](images/stackoverflow-tag-highlighted.png)
+
+<div class="caption">Shot down!</div>
 
 --
 
