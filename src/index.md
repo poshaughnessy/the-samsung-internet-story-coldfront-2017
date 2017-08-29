@@ -140,6 +140,12 @@ controls: false
 
 <div class="caption">It should finally be added to Google Analytics any day now!</div>
 
+-- img-with-header pictureframe
+
+![Tweet about Samsung Internet not showing up in caniuse.com](images/caniuse-tweet.png)
+
+<div class="caption">v4 was added in July 2016 and v5 in May 2017!</div>
+
 --
 
 > &ldquo;Why did samsung build its own browser?&rdquo;
@@ -158,4 +164,10 @@ controls: false
 
 --
 
+## To Be Continued.
+
+<div class="contact">
+  <p class="social">[@poshaughnessy](https://twitter.com/poshaughnessy)</p>
+  <p class="social">[@samsunginternet](https://twitter.com/samsunginternet)</p>
+</div>
 
