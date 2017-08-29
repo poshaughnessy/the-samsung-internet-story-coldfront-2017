@@ -114,6 +114,12 @@ controls: false
 
 #### Diego González-Zúñiga ([@diekus](https://twitter.com/diekus))
 
+-- img-with-header pictureframe
+
+![Staines](images/staines-with-alig.jpg)
+
+##### Staines, UK
+
 -- simpsons pictureframe
 
 ![Mountain to climb](images/simpsons-mountain-to-climb.gif)
@@ -127,3 +133,9 @@ controls: false
 <div class="caption">Source: [Twitter poll, March 2017](https://twitter.com/poshaughnessy/status/846813031178874880) - 761 votes</div>
 
 --
+
+> &ldquo;Why did samsung build its own browser?&rdquo;
+
+> &ldquo;Yet another one to test!&rdquo;
+
+
