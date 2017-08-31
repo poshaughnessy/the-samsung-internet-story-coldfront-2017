@@ -92,7 +92,7 @@ controls: false
 
 ![PWA Dev Summit](images/pwa-dev-summit-dan-jungkee.jpg)
 
-#### Daniel & Jungkee Song ([@jungkees](https://twitter.com/jungkees)), PWA Dev Summit, June 2016
+##### Daniel & Jungkee Song ([@jungkees](https://twitter.com/jungkees)), PWA Dev Summit, June 2016
 
 -- img-with-header pictureframe
 
@@ -138,13 +138,9 @@ controls: false
 
 ![HTML5Test tweet about Samsung Internet not showing up in Google Analytics](images/googleanalytics-tweet.png)
 
-<div class="caption">It should finally be added to Google Analytics any day now!</div>
-
 -- img-with-header pictureframe
 
 ![Tweet about Samsung Internet not showing up in caniuse.com](images/caniuse-tweet.png)
-
-<div class="caption">v4 was since added in July 2016 and v5 in May 2017</div>
 
 -- line-dividers
 
@@ -191,6 +187,32 @@ controls: false
 ![Panda running](images/pandarunning.gif)
 
 <div class="credit">[giphy.com](https://giphy.com/gifs/panda-uoD1EbtDzODAI/)</div>
+
+-- img-with-header pictureframe
+
+![StatCounter - mobile browsing in Europe](images/statcounter-europe.png)
+
+##### Over 10% share of all mobile browsing in Europe ([StatCounter](http://gs.statcounter.com/browser-market-share/mobile/europe/#monthly-201607-201707-bar))
+
+-- img-with-header pictureframe
+
+![caniuse added Samsung Internet](images/caniuse-added.png)
+
+<div class="caption">v4 was added in July 2016 and v5 in May 2017</div>
+
+-- img-with-header pictureframe
+
+![HTML5Test adding Samsung Internet](images/html5test.png)
+
+-- img-with-header pictureframe
+
+![Wikipedia article published](images/wikipedia-published.png)
+
+--
+
+> &ldquo;We've added support for... Samsung Internet as a browser. this should be in production [soon].&rdquo;
+
+Google Analytics
 
 --
 
