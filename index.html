@@ -287,7 +287,7 @@ table th {
 }
 
 .caption {
-  font-size: 0.9em;
+  font-size: 0.85em;
   margin-top: 0.5em;
   font-weight: normal;
   text-shadow: none;
@@ -576,6 +576,11 @@ pre .xml .cdata {
 
 .img-with-header.pictureframe img {
   max-height: calc(100vh - 8em);
+  max-width: calc(95vw - 120px);
+}
+
+.img-with-caption.pictureframe img {
+  max-height: calc(100vh - 6em);
   max-width: calc(95vw - 120px);
 }
 
@@ -935,14 +940,26 @@ h2 + .quote {
     <section class="slide-content"><p><img src="images/wikipedia-published.png" alt="Wikipedia article published"></p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-32">
+  <div class="slide hidden  img-with-header pictureframe" id="slide-32">
+    <section class="slide-content"><p><img src="images/stackoverflow-tag2.png" alt="Stack Overflow tag"></p>
+<div class="caption"><a href="https://stackoverflow.com/questions/tagged/samsung-browser">Stack Overflow tag</a> (we also monitor mentions without the tag!)</div></section>
+  </div>
+  <div class="slide hidden  img-with-caption pictureframe" id="slide-33">
+    <section class="slide-content"><p><img src="images/speaking-map-crop.png" alt="Samsung Internet speaking engagements map of the world"></p>
+<div class="caption">Places we&#39;ve spoken so far</div></section>
+  </div>
+  <div class="slide hidden" id="slide-34">
+    <section class="slide-content"><p>TODO: demos</p>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-35">
     <section class="slide-content"><blockquote>
 <p>&ldquo;We&#39;ve added support for... Samsung Internet as a browser. this should be in production [soon].&rdquo;</p>
 </blockquote>
 <p>Google Analytics</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-33">
+  <div class="slide hidden" id="slide-36">
     <section class="slide-content"><h2 id="to-be-continued-">To Be Continued.</h2>
 <h3 id="please-give-your-review-at-todo-todolink-">Please give your review at <a href="TODOLINK">TODO</a></h3>
 <div class="contact">
