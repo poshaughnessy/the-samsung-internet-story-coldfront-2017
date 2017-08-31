@@ -246,7 +246,45 @@ controls: false
 
 ![Samsung software](images/samsung-apps.png)
 
-<div class="caption">Hardware + Software</div>
+##### Hardware + Software
+
+-- img-with-header
+
+![Continuous browsing experience](images/continuous-browsing-experience.png)
+
+##### Gear VR integration
+
+-- img-with-header
+
+![Fingerprint scanner](images/fingerprint-s8.png)
+
+##### Samsung Pass integration
+
+-- img-with-header
+
+![Web Payments](images/web-payments.gif)
+
+#### Web Payments
+
+-- img-with-header
+
+![Content Blockers](images/content-blockers.png)
+
+#### Content Blockers
+
+--
+
+# Users First
+
+-- img-with-header
+
+![Panda driving](images/panda-driving.jpg)
+
+<div class="credit">[flickr.com/acidjames](https://www.flickr.com/photos/acidjames/49907271)</div>
+
+-- img-with-caption
+
+![W3C](images/w3c.png)
 
 --
 
