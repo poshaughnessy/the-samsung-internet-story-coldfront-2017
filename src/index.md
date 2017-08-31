@@ -240,9 +240,19 @@ controls: false
 
 --
 
+# Why?
+
+--
+
 > &ldquo;We've added support for... Samsung Internet as a browser. this should be in production [soon].&rdquo;
 
 Google Analytics
+
+-- img-with-header pictureframe
+
+![Panda dancing](images/panda-dancing.gif)
+
+<div class="credit">[giphy.com](https://giphy.com/gifs/thedudeperfectshow-cmt-the-dude-perfect-show-l3V0lsGtTMSB5YNgc)</div>
 
 --
 
