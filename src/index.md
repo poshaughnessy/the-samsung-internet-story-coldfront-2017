@@ -182,11 +182,11 @@ controls: false
 
 <div class="credit">[giphy.com](https://giphy.com/gifs/sad-panda-prH3cY9Bsbinu)</div>
 
--- img-with-header pictureframe
+-- img-with-header stretch-img pictureframe
 
-![Panda running](images/pandarunning.gif)
+![Panda rolling](images/panda-roll.gif)
 
-<div class="credit">[giphy.com](https://giphy.com/gifs/panda-uoD1EbtDzODAI/)</div>
+<div class="credit">[giphy.com](https://giphy.com/gifs/panda-roll-Wji7dIi2rW7fy)</div>
 
 -- img-with-header pictureframe
 
@@ -198,7 +198,7 @@ controls: false
 
 ![caniuse added Samsung Internet](images/caniuse-added.png)
 
-<div class="caption">v4 was added in July 2016 and v5 in May 2017</div>
+<div class="caption">v4 was added to [caniuse](http://caniuse.com/) in July 2016 and v5 in May 2017</div>
 
 -- img-with-header pictureframe
 
@@ -232,6 +232,13 @@ controls: false
 
 [metaverse.samsunginter.net](https://metaverse.samsunginter.net)
 
+-- img-with-header stretch-img pictureframe
+
+![Panda rolling](images/panda-happy.gif)
+
+<div class="credit">[giphy.com](https://giphy.com/gifs/happy-eating-VHiFO63HWiqha)</div>
+
+--
 
 > &ldquo;We've added support for... Samsung Internet as a browser. this should be in production [soon].&rdquo;
 
