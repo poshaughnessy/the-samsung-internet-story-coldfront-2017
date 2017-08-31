@@ -148,10 +148,6 @@ controls: false
 
 -- line-dividers
 
-> &ldquo;Why did samsung build its own browser?&rdquo;
-
-![Line divider](images/line-divider.svg)
-
 > &ldquo;Yet another one to test!&rdquo;
 
 ![Line divider](images/line-divider.svg)
@@ -164,23 +160,43 @@ controls: false
 
 > &ldquo;I’m not going to buy a Samsung phone just to test on your browser!&rdquo;
 
-<div class="caption">Our (only) solution for non-Samsung users was the [Remote Test Lab](http://developer.samsung.com/rtlLanding.do)</div>
+<div class="caption">Our (only) solution for non-Samsung users at the time was the [Remote Test Lab](http://developer.samsung.com/rtlLanding.do)</div>
 
 -- img-with-header pictureframe
 
 ![Stack Overflow tag request which got shot down](images/stackoverflow-tag-highlighted.png)
 
-<div class="caption">Shot down!</div>
+<div class="caption">StackOverflow says no!</div>
 
 -- img-with-header pictureframe
 
 ![Wikipedia article draft which got shot down](images/wikipedia-rejection.png)
 
-<div class="caption">Shot down!</div>
+<div class="caption">Wikipedia says no!</div>
+
+-- flame
+
+![Flame emoji](images/flame-emoji.svg)
+
+<div class="credit">[wikimedia](https://commons.wikimedia.org/wiki/File:Emoji_u1f525.svg)</div>
+
+-- img-with-header stretch-img pictureframe
+
+![Sad panda](images/sadpanda.gif)
+
+<div class="credit">[giphy.com](https://giphy.com/gifs/sad-panda-prH3cY9Bsbinu)</div>
+
+-- img-with-header pictureframe
+
+![Panda running](images/pandarunning.gif)
+
+<div class="credit">[giphy.com](https://giphy.com/gifs/panda-uoD1EbtDzODAI/)</div>
 
 --
 
 ## To Be Continued.
+
+### Please give your review at [TODO](TODOLINK)
 
 <div class="contact">
   <p class="social">[@poshaughnessy](https://twitter.com/poshaughnessy)</p>

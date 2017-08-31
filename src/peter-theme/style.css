@@ -561,6 +561,10 @@ pre .xml .cdata {
   max-height: calc(100vh - 6em);
 }
 
+.img-with-header.stretch-img img {
+  height: calc(100vh - 6em);
+}
+
 .img-with-header.pictureframe img {
   max-height: calc(100vh - 8em);
   max-width: calc(95vw - 120px);
@@ -719,4 +723,8 @@ h2 + .quote {
 .survey .legend.yellow {
   background-color: #f4c63d;
   margin-left: 1.2em;
+}
+
+.flame img {
+  height: 60vh;
 }
