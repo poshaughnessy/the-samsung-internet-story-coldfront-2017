@@ -279,7 +279,7 @@ table th {
 }
 
 .caption {
-  font-size: 0.9em;
+  font-size: 0.85em;
   margin-top: 0.5em;
   font-weight: normal;
   text-shadow: none;
@@ -568,6 +568,11 @@ pre .xml .cdata {
 
 .img-with-header.pictureframe img {
   max-height: calc(100vh - 8em);
+  max-width: calc(95vw - 120px);
+}
+
+.img-with-caption.pictureframe img {
+  max-height: calc(100vh - 6em);
   max-width: calc(95vw - 120px);
 }
 

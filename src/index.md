@@ -208,6 +208,22 @@ controls: false
 
 ![Wikipedia article published](images/wikipedia-published.png)
 
+-- img-with-header pictureframe
+
+![Stack Overflow tag](images/stackoverflow-tag2.png)
+
+<div class="caption">[Stack Overflow tag](https://stackoverflow.com/questions/tagged/samsung-browser) (we also monitor mentions without the tag!)</div>
+
+-- img-with-caption pictureframe
+
+![Samsung Internet speaking engagements map of the world](images/speaking-map-crop.png)
+
+<div class="caption">Places we've spoken so far</div>
+
+--
+
+TODO: demos
+
 --
 
 > &ldquo;We've added support for... Samsung Internet as a browser. this should be in production [soon].&rdquo;
