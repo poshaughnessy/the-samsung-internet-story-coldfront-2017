@@ -242,6 +242,12 @@ controls: false
 
 # Why?
 
+-- img-with-header
+
+![Samsung software](images/samsung-apps.png)
+
+<div class="caption">Hardware + Software</div>
+
 --
 
 > &ldquo;We've added support for... Samsung Internet as a browser. this should be in production [soon].&rdquo;
