@@ -226,7 +226,12 @@ controls: false
 
 [https://snapw.at](https://snapw.at)
 
---
+-- img-with-caption pictureframe
+
+![Metaverse demo](images/metaverse.gif)
+
+[metaverse.samsunginter.net](https://metaverse.samsunginter.net)
+
 
 > &ldquo;We've added support for... Samsung Internet as a browser. this should be in production [soon].&rdquo;
 
