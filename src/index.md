@@ -246,7 +246,7 @@ controls: false
 
 ![Samsung software](images/samsung-apps.png)
 
-##### Hardware + Software
+##### Best Experience = Hardware + Software
 
 -- img-with-header
 
@@ -285,6 +285,14 @@ controls: false
 -- img-with-caption
 
 ![W3C](images/w3c.png)
+
+### Service Workers &middot; WebVR &middot; Web Bluetooth &middot; Web Payments
+
+-- img-with-heading
+
+![Chromium](images/chromium.png)
+
+### [samsung.github.io/Chromium/](http://samsung.github.io/Chromium/)
 
 --
 
