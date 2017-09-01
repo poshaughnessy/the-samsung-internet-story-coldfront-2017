@@ -427,6 +427,54 @@ controls: false
 
 <div class="credit">[giphy.com](https://giphy.com/gifs/thedudeperfectshow-cmt-the-dude-perfect-show-l3V0lsGtTMSB5YNgc)</div>
 
+-- img-with-header
+
+![internet://flags](images/internet-flags.png)
+
+### `internet://flags` - Web Bluetooth, WebVR, WebGL 2 & more
+
+-- img-with-header
+
+## From...
+
+![Pictures under glass](images/pictures-under-glass.jpg)
+
+<div class="credit">[placeit](https://placeit.net/)</div>
+
+-- img-with-header-and-caption
+
+## To...
+
+![Physical web, mixed reality & the Metaverse](images/future-web.jpg)
+
+#### The Physical World, Mixed Reality & the Metaverse - [bit.ly/beyond-the-browser](https://bit.ly/beyond-the-browser)
+
+<div class="credit">[Robert Couse-Baker](https://www.flickr.com/photos/29233640@N07/23787450049)</div>
+
+--
+
+![Samsung Internet full logo](images/samsunginternet-full-logo-dark.png)
+
+-- img-with-header profile pictureframe
+
+![Uve Tulsiani](images/uve.jpg)
+
+#### Uve Tulsiani ([@uveavanto](https://twitter.com/uveavanto))
+
+--  img-with-header profile
+   
+![Mystery](images/mystery-new-joiner.png)
+
+-- img-with-header pictureframe
+
+![Diversity posts](images/diversity-posts.png)
+
+##### [medium.com/samsung-internet-dev](https://medium.com/samsung-internet-dev)
+
+--
+
+![Make the Web better](images/make-the-web-better.png)
+
 -- to-be-continued pictureframe
 
 ## To Be Continued...

@@ -590,6 +590,10 @@ pre .xml .cdata {
   max-height: calc(100vh - 11em);
 }
 
+.img-with-header-and-caption img {
+  max-height: calc(100vh - 9em);
+}
+
 .line-dividers img {
   height: 1em;
 }
@@ -725,10 +729,6 @@ h2 + .quote {
 
 .slide.goodcitizen:before {
   background-image: url(images/goodcitizen.jpg);
-}
-
-.profile img {
-  width: 400px;
 }
 
 .pictureframe img {
