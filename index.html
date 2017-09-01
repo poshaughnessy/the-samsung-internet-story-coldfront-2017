@@ -564,25 +564,29 @@ pre .xml .cdata {
 }
 
 .img-with-caption img {
-  max-height: calc(100vh - 6em);
+  max-height: calc(100vh - 5em);
 }
 
 .img-with-header img {
-  max-height: calc(100vh - 8em);
+  max-height: calc(100vh - 7em);
 }
 
 .img-with-header.stretch-img img {
-  height: calc(100vh - 8em);
+  height: calc(100vh - 7em);
 }
 
 .img-with-header.pictureframe img {
-  max-height: calc(100vh - 10em);
+  max-height: calc(100vh - 9em);
   max-width: calc(95vw - 120px);
 }
 
 .img-with-caption.pictureframe img {
-  max-height: calc(100vh - 8em);
+  max-height: calc(100vh - 7em);
   max-width: calc(95vw - 120px);
+}
+
+.img-with-header.goodboy img {
+  max-height: calc(100vh - 11em);
 }
 
 .line-dividers img {
@@ -781,6 +785,10 @@ h2 + .quote {
   margin-top: 1em;
 }
 
+.browser-diversity img {
+  max-height: calc(100vh - 9em);
+}
+
 .think-you-know-top-browsers h4 {
   padding-top: 1em;
 }
@@ -889,7 +897,7 @@ h2 + .quote {
 <h3 id="-ldquo-the-biggest-browser-you-ve-probably-never-heard-of-rdquo-">&ldquo;The biggest browser you&#39;ve probably never heard of&rdquo;</h3>
 </section>
   </div>
-  <div class="slide hidden  img-with-header pictureframe" id="slide-11">
+  <div class="slide hidden  img-with-header pictureframe goodboy" id="slide-11">
     <section class="slide-content"><h1 id="be-good-">Be good.</h1>
 <p><img src="images/goodcitizen1.jpg" alt="Good boy. Canine good citizen."></p>
 <div class="credit"><a href="https://www.flickr.com/photos/jonhurd/45162940">Jon Hurd</a></div></section>
@@ -989,7 +997,7 @@ h2 + .quote {
   </div>
   <div class="slide hidden  img-with-header pictureframe" id="slide-31">
     <section class="slide-content"><p><img src="images/wikipedia-published.png" alt="Wikipedia article published"></p>
-</section>
+<div class="caption"><a href="https://en.wikipedia.org/wiki/Samsung_Internet_for_Android">Published!</a></div></section>
   </div>
   <div class="slide hidden  img-with-header pictureframe" id="slide-32">
     <section class="slide-content"><p><img src="images/stackoverflow-tag2.png" alt="Stack Overflow tag"></p>
@@ -997,7 +1005,7 @@ h2 + .quote {
   </div>
   <div class="slide hidden  img-with-caption pictureframe" id="slide-33">
     <section class="slide-content"><p><img src="images/speaking-map-crop.png" alt="Samsung Internet speaking engagements map of the world"></p>
-<div class="caption">Places we&#39;ve spoken so far</div></section>
+<div class="caption">Spreading the word</div></section>
   </div>
   <div class="slide hidden  img-with-caption pictureframe" id="slide-34">
     <section class="slide-content"><p><img src="images/snapwat-better-quality.gif" alt="Snapwat demo"></p>
@@ -1048,6 +1056,7 @@ h2 + .quote {
   </div>
   <div class="slide hidden  img-with-header" id="slide-44">
     <section class="slide-content"><p><img src="images/panda-driving.jpg" alt="Panda driving"></p>
+<h5 id="a-driving-seat-in-web-tech">A driving seat in web tech</h5>
 <div class="credit"><a href="https://www.flickr.com/photos/acidjames/49907271">flickr.com/acidjames</a></div></section>
   </div>
   <div class="slide hidden  img-with-caption" id="slide-45">
@@ -1083,19 +1092,44 @@ h2 + .quote {
 <h4 id="-bit-ly-browser-diversity-https-bit-ly-browser-diversity-"><a href="https://bit.ly/browser-diversity">bit.ly/browser-diversity</a></h4>
 </section>
   </div>
-  <div class="slide hidden  img-with-header google-analytics" id="slide-50">
+  <div class="slide hidden  history" id="slide-50">
+    <section class="slide-content"><div class="container">
+      <div>
+        <h3><a href="https://medium.com/samsung-internet-dev/beta-d0f988fb77fb">v5 beta</a></h3>
+        <img src="images/sbrowser5.2-beta.png" alt="v5 beta">
+        <p><a href="https://medium.com/samsung-internet-dev/beta-d0f988fb77fb">Nov 2016:</a> First beta open to public by application.</p>
+      </div>
+      <div>
+        <h3><a href="https://medium.com/samsung-internet-dev/announcing-samsung-internet-5-0-1ac2bfc14b78">v5.0</a></h3>
+        <img src="images/sbrowser5.0.png" alt="v5.0">
+        <p><a href="https://medium.com/samsung-internet-dev/announcing-samsung-internet-5-0-1ac2bfc14b78">Dec 2016:</a> Stable version started shipping to Samsung Galaxy devices.</p>
+      </div>
+      <div>
+        <h3><a href="https://medium.com/samsung-internet-dev/samsung-internet-beta-now-available-without-sign-up-e0d5d4010838">v5.4 beta</a></h3>
+        <img src="images/sbrowser5.4-beta.png" alt="v5.4 beta">
+        <p><a href="https://medium.com/samsung-internet-dev/samsung-internet-beta-now-available-without-sign-up-e0d5d4010838">Mar 2017:</a> First open beta available on Play Store. First version to support Pixel &amp; Nexus phones.</p>
+      </div>
+      <div>
+        <h3><a href="https://medium.com/samsung-internet-dev/announcing-samsung-internet-v5-4-stable-fd941e0dcd58">v5.4 stable</a></h3>
+        <img src="images/sbrowser5.4.png" alt="v5.4">
+        <p><a href="https://medium.com/samsung-internet-dev/announcing-samsung-internet-v5-4-stable-fd941e0dcd58">May 2017:</a> Launched with S8 (initially as v5.2) and soon after to all supported devices incl. Pixel &amp; Nexus.</p>
+      </div>
+  </div>
+
+  <div class="caption">NB. Technically it was slightly more complicated, due to an ill-fated phone we don&#39;t like to talk about anymore ;-)</div></section>
+  </div>
+  <div class="slide hidden  img-with-header google-analytics" id="slide-51">
     <section class="slide-content"><p><img src="images/googleanalytics.png" alt="Google Analytics"></p>
 <h4 id="samsung-internet-support-coming-soon-they-promised-">Samsung Internet support coming soon (they promised!)</h4>
 </section>
   </div>
-  <div class="slide hidden  to-be-continued pictureframe" id="slide-51">
+  <div class="slide hidden  to-be-continued pictureframe" id="slide-52">
     <section class="slide-content"><h2 id="to-be-continued-">To Be Continued...</h2>
 <p><img src="images/panda-dancing.gif" alt="Panda dancing"></p>
 <h3 id="please-give-feedback-at-bit-ly-peter-coldfront-https-bit-ly-peter-coldfront-">Please give feedback at: <a href="https://bit.ly/peter-coldfront">bit.ly/peter-coldfront</a></h3>
 <h4 id="-whether-it-made-you-a-happy-panda-or-not-">(Whether it made you a happy panda or not!)</h4>
 <div class="contact">
-  <p class="social"><a href="https://twitter.com/poshaughnessy">@poshaughnessy</a></p>
-  <p class="social"><a href="https://twitter.com/samsunginternet">@samsunginternet</a></p>
+  <p class="social"><a href="https://twitter.com/poshaughnessy">@poshaughnessy</a> &middot; <a href="https://twitter.com/samsunginternet">@samsunginternet</a></p>
 </div>
 
 <div class="credit"><a href="https://giphy.com/gifs/thedudeperfectshow-cmt-the-dude-perfect-show-l3V0lsGtTMSB5YNgc">giphy.com</a></div></section>
