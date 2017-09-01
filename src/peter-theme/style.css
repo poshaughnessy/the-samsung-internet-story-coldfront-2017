@@ -785,6 +785,58 @@ h2 + .quote {
   padding-top: 1em;
 }
 
+.cssgrid .container {
+  display: grid;
+  grid-template: repeat(2, [row] 1fr) / repeat(4, [col] 1fr);
+  grid-gap: 20px;
+  width: 80%;
+  margin: 0 auto 1.5em auto;
+}
+
+.cssgrid .container div {
+  font-size: 3em;
+  border: 2px solid #333;
+}
+
+.cssgrid .container div:nth-child(1) {
+  grid-column: col 1;
+  grid-row: row 1;
+}
+
+.cssgrid .container div:nth-child(2) {
+  grid-column: col 2;
+  grid-row: row 1;
+}
+
+.cssgrid .container div:nth-child(3) {
+  grid-column: col 3;
+  grid-row: row 1;
+}
+
+.cssgrid .container div:nth-child(4) {
+  grid-column: col 1;
+  grid-row: row 2;
+}
+
+.cssgrid .container div:nth-child(5) {
+  grid-column: col 2;
+  grid-row: row 2;
+}
+
+.cssgrid .container div:nth-child(6) {
+  grid-column: col 3;
+  grid-row: row 2;
+}
+
+.cssgrid .container div:nth-child(7) {
+  grid-column: col 4;
+  grid-row: row 2;
+}
+
+.v6_2.pictureframe img {
+  max-height: calc(100vh - 12em);
+}
+
 .to-be-continued img {
   margin-top: 1em;
   height: 25vh;

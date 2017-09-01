@@ -355,6 +355,66 @@ controls: false
   
   <div class="caption">NB. Technically it was slightly more complicated, due to an ill-fated phone we don't like to talk about anymore ;-)</div>
 
+-- cssgrid
+
+<div class="container">
+  <div>C</div>
+  <div>S</div>
+  <div>S</div>
+  <div>G</div>
+  <div>R</div>
+  <div>I</div>
+  <div>D</div>
+</div>
+
+<div class="caption">[Supported in our latest beta](https://medium.com/samsung-internet-dev/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9)</div>
+
+-- img-with-header pictureframe
+
+![Github issues](images/github-issues.png)
+
+### [github.com/samsunginternet/support](https://github.com/samsunginternet/support)
+
+-- img-with-header pictureframe
+
+![PWA logo tweet](images/pwa-logo-tweet.png)
+
+### [bit.ly/pwa-logo](https://bit.ly/pwa-logo)
+
+-- img-with-header v6_2 pictureframe
+
+### &ldquo;For the first time, Samsung Internet available for all Android L+ phones!&rdquo;
+
+![v6.2 supports all Android L+ phones](images/v6.2-all-android.png)
+
+#### [bit.ly/samsung-internet-v6-2](https://bit.ly/samsung-internet-v6-2)
+
+-- img-with-header pictureframe
+
+![ZDNet article calling it the best Android browser](images/zdnet-best-android-browser.png)
+
+### [bit.ly/zdnet-thanks-samsung](https://bit.ly/zdnet-thanks-samsung)
+
+-- line-dividers
+  
+  > &ldquo;Best browser there is for Android.&rdquo;
+  
+  ![Line divider](images/line-divider.svg)
+  
+  > &ldquo;FAST with content blockers enabled.&rdquo;
+  
+  ![Line divider](images/line-divider.svg)
+  
+  > &ldquo;Seriously the best browser. It's really fast and smooth.&rdquo;
+  
+  <div class="caption">Public feedback. Thanks!</div>
+
+-- img-with-header pictureframe
+
+![Engadget article saying it's inexplicable](images/engadget-inexplicable.png)
+
+### [bit.ly/engadget-inexplicable]()
+
 -- img-with-header google-analytics
 
 ![Google Analytics](images/googleanalytics.png)
