@@ -80,7 +80,7 @@ controls: false
 
 ### &ldquo;The biggest browser you've probably never heard of&rdquo;
 
--- img-with-header pictureframe
+-- img-with-header pictureframe goodboy
 
 # Be good.
 
@@ -208,6 +208,8 @@ controls: false
 
 ![Wikipedia article published](images/wikipedia-published.png)
 
+<div class="caption">[Published!](https://en.wikipedia.org/wiki/Samsung_Internet_for_Android)</div>
+
 -- img-with-header pictureframe
 
 ![Stack Overflow tag](images/stackoverflow-tag2.png)
@@ -218,7 +220,7 @@ controls: false
 
 ![Samsung Internet speaking engagements map of the world](images/speaking-map-crop.png)
 
-<div class="caption">Places we've spoken so far</div>
+<div class="caption">Spreading the word</div>
 
 -- img-with-caption pictureframe
 
@@ -280,6 +282,8 @@ controls: false
 
 ![Panda driving](images/panda-driving.jpg)
 
+##### A driving seat in web tech
+
 <div class="credit">[flickr.com/acidjames](https://www.flickr.com/photos/acidjames/49907271)</div>
 
 -- img-with-caption
@@ -324,6 +328,33 @@ controls: false
 
 #### [bit.ly/browser-diversity](https://bit.ly/browser-diversity)
 
+-- history
+  
+  <div class="container">
+      <div>
+        <h3>[v5 beta](https://medium.com/samsung-internet-dev/beta-d0f988fb77fb)</h3>
+        ![v5 beta](images/sbrowser5.2-beta.png)
+        <p>[Nov 2016:](https://medium.com/samsung-internet-dev/beta-d0f988fb77fb) First beta open to public by application.</p>
+      </div>
+      <div>
+        <h3>[v5.0](https://medium.com/samsung-internet-dev/announcing-samsung-internet-5-0-1ac2bfc14b78)</h3>
+        ![v5.0](images/sbrowser5.0.png)
+        <p>[Dec 2016:](https://medium.com/samsung-internet-dev/announcing-samsung-internet-5-0-1ac2bfc14b78) Stable version started shipping to Samsung Galaxy devices.</p>
+      </div>
+      <div>
+        <h3>[v5.4 beta](https://medium.com/samsung-internet-dev/samsung-internet-beta-now-available-without-sign-up-e0d5d4010838)</h3>
+        ![v5.4 beta](images/sbrowser5.4-beta.png)
+        <p>[Mar 2017:](https://medium.com/samsung-internet-dev/samsung-internet-beta-now-available-without-sign-up-e0d5d4010838) First open beta available on Play Store. First version to support Pixel & Nexus phones.</p>
+      </div>
+      <div>
+        <h3>[v5.4 stable](https://medium.com/samsung-internet-dev/announcing-samsung-internet-v5-4-stable-fd941e0dcd58)</h3>
+        ![v5.4](images/sbrowser5.4.png)
+        <p>[May 2017:](https://medium.com/samsung-internet-dev/announcing-samsung-internet-v5-4-stable-fd941e0dcd58) Launched with S8 (initially as v5.2) and soon after to all supported devices incl. Pixel & Nexus.</p>
+      </div>
+  </div>
+  
+  <div class="caption">NB. Technically it was slightly more complicated, due to an ill-fated phone we don't like to talk about anymore ;-)</div>
+
 -- img-with-header google-analytics
 
 ![Google Analytics](images/googleanalytics.png)
@@ -340,8 +371,7 @@ controls: false
 #### (Whether it made you a happy panda or not!)
 
 <div class="contact">
-  <p class="social">[@poshaughnessy](https://twitter.com/poshaughnessy)</p>
-  <p class="social">[@samsunginternet](https://twitter.com/samsunginternet)</p>
+  <p class="social">[@poshaughnessy](https://twitter.com/poshaughnessy) &middot; [@samsunginternet](https://twitter.com/samsunginternet)</p>
 </div>
 
 <div class="credit">[giphy.com](https://giphy.com/gifs/thedudeperfectshow-cmt-the-dude-perfect-show-l3V0lsGtTMSB5YNgc)</div>

@@ -556,25 +556,29 @@ pre .xml .cdata {
 }
 
 .img-with-caption img {
-  max-height: calc(100vh - 6em);
+  max-height: calc(100vh - 5em);
 }
 
 .img-with-header img {
-  max-height: calc(100vh - 8em);
+  max-height: calc(100vh - 7em);
 }
 
 .img-with-header.stretch-img img {
-  height: calc(100vh - 8em);
+  height: calc(100vh - 7em);
 }
 
 .img-with-header.pictureframe img {
-  max-height: calc(100vh - 10em);
+  max-height: calc(100vh - 9em);
   max-width: calc(95vw - 120px);
 }
 
 .img-with-caption.pictureframe img {
-  max-height: calc(100vh - 8em);
+  max-height: calc(100vh - 7em);
   max-width: calc(95vw - 120px);
+}
+
+.img-with-header.goodboy img {
+  max-height: calc(100vh - 11em);
 }
 
 .line-dividers img {
@@ -771,6 +775,10 @@ h2 + .quote {
 
 .think-you-know-top-browsers p:nth-of-type(2) {
   margin-top: 1em;
+}
+
+.browser-diversity img {
+  max-height: calc(100vh - 9em);
 }
 
 .think-you-know-top-browsers h4 {
