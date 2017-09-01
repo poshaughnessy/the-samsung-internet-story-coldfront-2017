@@ -294,26 +294,54 @@ controls: false
 
 ### [samsung.github.io/Chromium/](http://samsung.github.io/Chromium/)
 
---
+-- six-images rise-of-chromia
 
-> &ldquo;We've added support for... Samsung Internet as a browser. this should be in production [soon].&rdquo;
+## ["The Rise of the Chromia"](https://www.smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/)
 
-Google Analytics
+![Samsung Internet](images/sbrowser5.4.png) ![Opera](images/opera.png) ![UC](images/uc.png) ![Yandex](images/yandex.png) ![Brave](images/brave.png) ![Vivaldi](images/vivaldi.png)
 
--- img-with-header pictureframe
+#### [bit.ly/samsung-internet-whats-the-deal](http://bit.ly/samsung-internet-whats-the-deal)
+
+-- think-you-know-top-browsers
+
+## [&ldquo;Think you know the top web browsers?&rdquo;](https://medium.com/samsung-internet-dev/think-you-know-the-top-web-browsers-458a0a070175)
+
+![StatCounter top browsers - all platforms](images/statcounter-all.png)
+
+<div class="caption">[All platforms, worldwide (StatCounter)](http://gs.statcounter.com/browser-market-share)</div>
+
+![StatCounter top browsers - mobile](images/statcounter-mobile.png)
+
+<div class="caption">[Mobile, worldwide (StatCounter)](http://gs.statcounter.com/browser-market-share/mobile/worldwide)</div>
+
+#### [bit.ly/think-you-know-the-top-browsers](https://bit.ly/think-you-know-the-top-browsers)
+
+-- browser-diversity
+
+## &ldquo;Because browser diversity is good for the Web&rdquo;
+
+![Many browser logos](images/browser-diversity.png)
+
+#### [bit.ly/browser-diversity](https://bit.ly/browser-diversity)
+
+-- img-with-header google-analytics
+
+![Google Analytics](images/googleanalytics.png)
+
+#### Samsung Internet support coming soon (they promised!)
+
+-- to-be-continued pictureframe
+
+## To Be Continued...
 
 ![Panda dancing](images/panda-dancing.gif)
 
-<div class="credit">[giphy.com](https://giphy.com/gifs/thedudeperfectshow-cmt-the-dude-perfect-show-l3V0lsGtTMSB5YNgc)</div>
-
---
-
-## To Be Continued.
-
-### Please give your review at [TODO](TODOLINK)
+### Please give feedback at: [bit.ly/peter-coldfront](https://bit.ly/peter-coldfront)
+#### (Whether it made you a happy panda or not!)
 
 <div class="contact">
   <p class="social">[@poshaughnessy](https://twitter.com/poshaughnessy)</p>
   <p class="social">[@samsunginternet](https://twitter.com/samsunginternet)</p>
 </div>
 
+<div class="credit">[giphy.com](https://giphy.com/gifs/thedudeperfectshow-cmt-the-dude-perfect-show-l3V0lsGtTMSB5YNgc)</div>
