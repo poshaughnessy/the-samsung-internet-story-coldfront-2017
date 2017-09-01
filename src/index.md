@@ -407,7 +407,7 @@ controls: false
   
   > &ldquo;Seriously the best browser. It's really fast and smooth.&rdquo;
   
-  <div class="caption">Public feedback. Thanks!</div>
+  <div class="caption">Public feedback. Thanks! \*Blush\*</div>
 
 -- img-with-header pictureframe
 
@@ -421,11 +421,17 @@ controls: false
 
 #### Samsung Internet support coming soon (they promised!)
 
+-- pictureframe stretch-img
+
+![Panda dancing](images/panda-dancing.gif)
+
+<div class="credit">[giphy.com](https://giphy.com/gifs/thedudeperfectshow-cmt-the-dude-perfect-show-l3V0lsGtTMSB5YNgc)</div>
+
 -- to-be-continued pictureframe
 
 ## To Be Continued...
 
-![Panda dancing](images/panda-dancing.gif)
+![Pandas waving](images/pandas-waving.gif)
 
 ### Please give feedback at: [bit.ly/peter-coldfront](https://bit.ly/peter-coldfront)
 #### (Whether it made you a happy panda or not!)
@@ -434,4 +440,4 @@ controls: false
   <p class="social">[@poshaughnessy](https://twitter.com/poshaughnessy) &middot; [@samsunginternet](https://twitter.com/samsunginternet)</p>
 </div>
 
-<div class="credit">[giphy.com](https://giphy.com/gifs/thedudeperfectshow-cmt-the-dude-perfect-show-l3V0lsGtTMSB5YNgc)</div>
+<div class="credit">[giphy.com](https://giphy.com/gifs/z6xE1olZ5YP4I)</div>

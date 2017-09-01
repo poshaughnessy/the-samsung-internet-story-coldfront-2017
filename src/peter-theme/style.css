@@ -81,6 +81,11 @@ img {
   max-height: calc(100vh - 3em); /* Allow space for captions by default */
 }
 
+.stretch-img img {
+  height: 100%;
+  height: calc(100vh - 3em);
+}
+
 video {
   max-width: 90vw;
   max-height: 85vh;
@@ -561,6 +566,10 @@ pre .xml .cdata {
 
 .img-with-header img {
   max-height: calc(100vh - 7em);
+}
+
+.pictureframe.stretch-img img {
+  height: calc(100vh - 7em);
 }
 
 .img-with-header.stretch-img img {
