@@ -793,6 +793,58 @@ h2 + .quote {
   padding-top: 1em;
 }
 
+.cssgrid .container {
+  display: grid;
+  grid-template: repeat(2, [row] 1fr) / repeat(4, [col] 1fr);
+  grid-gap: 20px;
+  width: 80%;
+  margin: 0 auto 1.5em auto;
+}
+
+.cssgrid .container div {
+  font-size: 3em;
+  border: 2px solid #333;
+}
+
+.cssgrid .container div:nth-child(1) {
+  grid-column: col 1;
+  grid-row: row 1;
+}
+
+.cssgrid .container div:nth-child(2) {
+  grid-column: col 2;
+  grid-row: row 1;
+}
+
+.cssgrid .container div:nth-child(3) {
+  grid-column: col 3;
+  grid-row: row 1;
+}
+
+.cssgrid .container div:nth-child(4) {
+  grid-column: col 1;
+  grid-row: row 2;
+}
+
+.cssgrid .container div:nth-child(5) {
+  grid-column: col 2;
+  grid-row: row 2;
+}
+
+.cssgrid .container div:nth-child(6) {
+  grid-column: col 3;
+  grid-row: row 2;
+}
+
+.cssgrid .container div:nth-child(7) {
+  grid-column: col 4;
+  grid-row: row 2;
+}
+
+.v6_2.pictureframe img {
+  max-height: calc(100vh - 12em);
+}
+
 .to-be-continued img {
   margin-top: 1em;
   height: 25vh;
@@ -1118,12 +1170,65 @@ h2 + .quote {
 
   <div class="caption">NB. Technically it was slightly more complicated, due to an ill-fated phone we don&#39;t like to talk about anymore ;-)</div></section>
   </div>
-  <div class="slide hidden  img-with-header google-analytics" id="slide-51">
+  <div class="slide hidden  cssgrid" id="slide-51">
+    <section class="slide-content"><div class="container">
+  <div>C</div>
+  <div>S</div>
+  <div>S</div>
+  <div>G</div>
+  <div>R</div>
+  <div>I</div>
+  <div>D</div>
+</div>
+
+<div class="caption"><a href="https://medium.com/samsung-internet-dev/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9">Supported in our latest beta</a></div></section>
+  </div>
+  <div class="slide hidden  img-with-header pictureframe" id="slide-52">
+    <section class="slide-content"><p><img src="images/github-issues.png" alt="Github issues"></p>
+<h3 id="-github-com-samsunginternet-support-https-github-com-samsunginternet-support-"><a href="https://github.com/samsunginternet/support">github.com/samsunginternet/support</a></h3>
+</section>
+  </div>
+  <div class="slide hidden  img-with-header pictureframe" id="slide-53">
+    <section class="slide-content"><p><img src="images/pwa-logo-tweet.png" alt="PWA logo tweet"></p>
+<h3 id="-bit-ly-pwa-logo-https-bit-ly-pwa-logo-"><a href="https://bit.ly/pwa-logo">bit.ly/pwa-logo</a></h3>
+</section>
+  </div>
+  <div class="slide hidden  img-with-header v6_2 pictureframe" id="slide-54">
+    <section class="slide-content"><h3 id="-ldquo-for-the-first-time-samsung-internet-available-for-all-android-l-phones-rdquo-">&ldquo;For the first time, Samsung Internet available for all Android L+ phones!&rdquo;</h3>
+<p><img src="images/v6.2-all-android.png" alt="v6.2 supports all Android L+ phones"></p>
+<h4 id="-bit-ly-samsung-internet-v6-2-https-bit-ly-samsung-internet-v6-2-"><a href="https://bit.ly/samsung-internet-v6-2">bit.ly/samsung-internet-v6-2</a></h4>
+</section>
+  </div>
+  <div class="slide hidden  img-with-header pictureframe" id="slide-55">
+    <section class="slide-content"><p><img src="images/zdnet-best-android-browser.png" alt="ZDNet article calling it the best Android browser"></p>
+<h3 id="-bit-ly-zdnet-thanks-samsung-https-bit-ly-zdnet-thanks-samsung-"><a href="https://bit.ly/zdnet-thanks-samsung">bit.ly/zdnet-thanks-samsung</a></h3>
+</section>
+  </div>
+  <div class="slide hidden  line-dividers" id="slide-56">
+    <section class="slide-content"><blockquote>
+<p>&ldquo;Best browser there is for Android.&rdquo;</p>
+</blockquote>
+<p>  <img src="images/line-divider.svg" alt="Line divider"></p>
+<blockquote>
+<p>&ldquo;FAST with content blockers enabled.&rdquo;</p>
+</blockquote>
+<p>  <img src="images/line-divider.svg" alt="Line divider"></p>
+<blockquote>
+<p>&ldquo;Seriously the best browser. It&#39;s really fast and smooth.&rdquo;</p>
+</blockquote>
+  <div class="caption">Public feedback. Thanks!</div></section>
+  </div>
+  <div class="slide hidden  img-with-header pictureframe" id="slide-57">
+    <section class="slide-content"><p><img src="images/engadget-inexplicable.png" alt="Engadget article saying it&#39;s inexplicable"></p>
+<h3 id="-bit-ly-engadget-inexplicable-"><a href="">bit.ly/engadget-inexplicable</a></h3>
+</section>
+  </div>
+  <div class="slide hidden  img-with-header google-analytics" id="slide-58">
     <section class="slide-content"><p><img src="images/googleanalytics.png" alt="Google Analytics"></p>
 <h4 id="samsung-internet-support-coming-soon-they-promised-">Samsung Internet support coming soon (they promised!)</h4>
 </section>
   </div>
-  <div class="slide hidden  to-be-continued pictureframe" id="slide-52">
+  <div class="slide hidden  to-be-continued pictureframe" id="slide-59">
     <section class="slide-content"><h2 id="to-be-continued-">To Be Continued...</h2>
 <p><img src="images/panda-dancing.gif" alt="Panda dancing"></p>
 <h3 id="please-give-feedback-at-bit-ly-peter-coldfront-https-bit-ly-peter-coldfront-">Please give feedback at: <a href="https://bit.ly/peter-coldfront">bit.ly/peter-coldfront</a></h3>
