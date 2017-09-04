@@ -385,19 +385,24 @@ controls: false
 
 ##### [medium.com/samsung-internet-dev](https://medium.com/samsung-internet-dev)
 
--- history
+-- history half
 
   <div class="container">
       <div>
         <h3>[v5 beta](https://medium.com/samsung-internet-dev/beta-d0f988fb77fb)</h3>
         ![v5 beta](images/sbrowser5.2-beta.png)
-        <p>[Nov 2016:](https://medium.com/samsung-internet-dev/beta-d0f988fb77fb) First beta open to public by application.</p>
+        <p>[Nov 2016:](https://medium.com/samsung-internet-dev/beta-d0f988fb77fb) First beta open to public by application. Upgrade to Chromium M51.</p>
       </div>
       <div>
         <h3>[v5.0](https://medium.com/samsung-internet-dev/announcing-samsung-internet-5-0-1ac2bfc14b78)</h3>
         ![v5.0](images/sbrowser5.0.png)
         <p>[Dec 2016:](https://medium.com/samsung-internet-dev/announcing-samsung-internet-5-0-1ac2bfc14b78) Stable version started shipping to Samsung Galaxy devices.</p>
       </div>
+  </div>
+
+-- history half
+
+  <div class="container">
       <div>
         <h3>[v5.4 beta](https://medium.com/samsung-internet-dev/samsung-internet-beta-now-available-without-sign-up-e0d5d4010838)</h3>
         ![v5.4 beta](images/sbrowser5.4-beta.png)
@@ -409,8 +414,6 @@ controls: false
         <p>[May 2017:](https://medium.com/samsung-internet-dev/announcing-samsung-internet-v5-4-stable-fd941e0dcd58) Launched with S8 (initially as v5.2) and soon after to all supported devices incl. Pixel & Nexus.</p>
       </div>
   </div>
-
-  <div class="caption">Chromium M51</div>
 
 -- img-with-header pictureframe ambient-badging
 

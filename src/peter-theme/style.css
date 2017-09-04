@@ -730,6 +730,10 @@ h2 + .quote {
   padding: 1em;
 }
 
+.history.half .container div {
+  width: 50%;
+}
+
 .history .container img {
   width: 60%;
   margin-bottom: 1em;
