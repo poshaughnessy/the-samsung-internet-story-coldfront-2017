@@ -237,6 +237,12 @@ controls: false
 
 [metaverse.samsunginter.net](https://metaverse.samsunginter.net)
 
+-- img-with-caption pictureframe
+
+![Bubble](images/bubble.png)
+
+[bubble.pictures](http://bubble.pictures/)
+
 -- img-with-header stretch-img pictureframe
 
 ![Panda rolling](images/panda-happy.gif)
