@@ -766,8 +766,8 @@ h2 + .quote {
 }
 
 .think-you-know-top-browsers img {
-  margin-top: 0.5em;
-  height: 22vh;
+  margin: 1em 0 1em 0;
+  max-height: 25vh;
 }
 
 .think-you-know-top-browsers p {
@@ -775,11 +775,7 @@ h2 + .quote {
 }
 
 .think-you-know-top-browsers .caption {
-  margin-top: 0;
-}
-
-.think-you-know-top-browsers p:nth-of-type(2) {
-  margin-top: 1em;
+  margin: 0 0 1em 0;
 }
 
 .browser-diversity img {
@@ -836,6 +832,10 @@ h2 + .quote {
 .cssgrid .container div:nth-child(7) {
   grid-column: col 4;
   grid-row: row 2;
+}
+
+.why h1 {
+  font-size: 5em;
 }
 
 .flags img {

@@ -23,7 +23,7 @@ controls: false
 
 --
 
-> "A **major handset manufacturer** - based near London - are looking for web developer / advocate to support developers building web applications on top of **their browser**...”
+> "A **major handset manufacturer** - based near London - are looking for a web developer / advocate to support developers building web applications on top of **their browser**...”
 
 -- samsunglogo
 
@@ -201,7 +201,7 @@ controls: false
 
 ![caniuse added Samsung Internet](images/caniuse-added.png)
 
-<div class="caption">v4 was added to [caniuse](http://caniuse.com/) in July 2016 and v5 in May 2017</div>
+<div class="caption">v4 was added to [caniuse](http://caniuse.com/) in July 2016 and v5 in May 2017 (tap 'View All'!)</div>
 
 -- img-with-header pictureframe
 
@@ -243,7 +243,7 @@ controls: false
 
 <div class="credit">[giphy.com](https://giphy.com/gifs/happy-eating-VHiFO63HWiqha)</div>
 
---
+-- why
 
 # Why?
 
@@ -313,13 +313,13 @@ controls: false
 
 ## [&ldquo;Think you know the top web browsers?&rdquo;](https://medium.com/samsung-internet-dev/think-you-know-the-top-web-browsers-458a0a070175)
 
-![StatCounter top browsers - all platforms](images/statcounter-all.png)
+<!-- ![StatCounter top browsers - all platforms](images/statcounter-all.png) -->
 
-<div class="caption">[All platforms, worldwide (StatCounter)](http://gs.statcounter.com/browser-market-share)</div>
+<!-- <div class="caption">[All platforms, worldwide (StatCounter)](http://gs.statcounter.com/browser-market-share)</div> -->
 
 ![StatCounter top browsers - mobile](images/statcounter-mobile.png)
 
-<div class="caption">[Mobile, worldwide (StatCounter)](http://gs.statcounter.com/browser-market-share/mobile/worldwide)</div>
+<div class="caption">Mobile, worldwide ([StatCounter](http://gs.statcounter.com/browser-market-share/mobile/worldwide))</div>
 
 #### [bit.ly/think-you-know-the-top-browsers](https://bit.ly/think-you-know-the-top-browsers)
 
