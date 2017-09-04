@@ -408,13 +408,19 @@ controls: false
 
   <div class="caption">Chromium M51</div>
 
+-- img-with-header pictureframe ambient-badging
+
+#### PWA &ldquo;Ambient Badging&rdquo;
+
+![PWA ambient badging](images/pwa-ambient-badging.png)
+
+##### [bit.ly/samsung-internet-ambient-badging](http://bit.ly/samsung-internet-ambient-badging) (v5.4+)
+
 -- img-with-header pictureframe
 
-TODO DeX support
+![Samsung Internet for DeX](images/dex.gif)
 
--- img-with-header pictureframe
-
-TODO PWA ambient badging (which version?)
+#### Samsung Internet for DeX - [bit.ly/samsung-internet-v5_4](https://bit.ly/samsung-internet-v5_4)
 
 -- img-with-header pictureframe
 
@@ -424,7 +430,7 @@ TODO PWA ambient badging (which version?)
 
 -- img-with-header v6_2 pictureframe
 
-### v6.2 beta: Samsung Internet available for all Android L+ phones!
+### v6.2 beta: Samsung Internet for all Android L+ phones!
 
 ![v6.2 supports all Android L+ phones](images/v6.2-all-android.png)
 
@@ -436,9 +442,9 @@ TODO PWA ambient badging (which version?)
 
 Generally:
 
-* Beta launches (vx.2)
-* Stable initially ships with new flagship phone (vx.0)
-* Stable then released to all via app store (vx.2)
+* Beta launches
+* Stable ships with new flagship phone (S, Note)
+* Stable then released to all via app store
 
 -- cssgrid
 

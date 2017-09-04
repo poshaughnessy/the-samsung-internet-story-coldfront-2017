@@ -859,6 +859,10 @@ h2 + .quote {
   font-size: 5em;
 }
 
+.pictureframe.ambient-badging img {
+  max-height: calc(100vh - 12em);
+}
+
 .flags img {
   max-height: calc(100vh - 11em);
 }
