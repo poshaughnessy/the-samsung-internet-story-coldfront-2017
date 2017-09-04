@@ -103,7 +103,7 @@ controls: false
 
 ![Lego A-Team](images/lego-a-team.jpg)
 
-#### Forming A Team (Web Advocacy)
+#### Forming a team (Web Advocacy)
 
 <div class="credit">[ThomasW](https://ideas.lego.com/profile/ThomasW)</div>
 
@@ -127,9 +127,9 @@ controls: false
 
 -- img-with-header pictureframe
 
-TODO team photo
+![Samsung Internet Team @ Suwon](images/samsung-internet-team.jpg)
 
-##### Samsung Internet team @ Samsung Digital City, Suwon
+##### Samsung Internet team @ [Samsung Digital City, Suwon](https://news.samsung.com/global/purposely-leaked-20-things-about-samsungs-digital-city)
 
 -- simpsons pictureframe
 
@@ -235,21 +235,27 @@ TODO team photo
 
 -- img-with-header pictureframe
 
-TODO picture of Samsung Internet Intro Guide
+![Intro guide](images/intro-guide.png)
 
 #### [bit.ly/what-is-samsung-internet](https://bit.ly/what-is-samsung-internet)
 
--- img-with-header picturefeame
+-- img-with-header pictureframe
 
-TODO picture of Dev Hub
+![Remote debugging](images/remote-debugging.png)
+
+#### [bit.ly/what-is-samsung-internet](https://bit.ly/what-is-samsung-internet)
+
+-- img-with-header pictureframe
+
+![Dev Hub](images/dev-hub.jpg)
 
 #### [samsunginter.net](https://samsunginter.net)
 
 -- img-with-header picturefeame
 
-TODO picture of Smashing Mag article and PPK?
+![Smashing Mag article](images/smashing-mag.jpg)
 
-#### [smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/](https://www.smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/)
+#### [bit.ly/samsung-internet-whats-the-deal](https://bit.ly/samsung-internet-whats-the-deal)
 
 -- img-with-caption pictureframe
 
@@ -446,7 +452,7 @@ Generally:
   <div>D</div>
 </div>
 
-<div class="caption">[Support backported in v6.2](https://medium.com/samsung-internet-dev/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9)</div>
+<div class="caption">[Support introduced in v6.2 beta](https://medium.com/samsung-internet-dev/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9) (backported)</div>
 
 -- img-with-header pictureframe
 
