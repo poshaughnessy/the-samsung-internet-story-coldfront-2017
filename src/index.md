@@ -145,6 +145,10 @@ controls: false
 
 <div class="caption">Source: [Twitter poll, March 2017](https://twitter.com/poshaughnessy/status/846813031178874880) - 761 votes</div>
 
+--
+
+## &ldquo;Wait, I thought I was using Internet Explorer&rdquo;
+
 -- img-with-header pictureframe
 
 ![HTML5Test tweet about Samsung Internet not showing up in Google Analytics](images/googleanalytics-tweet.png)
@@ -209,7 +213,7 @@ controls: false
 
 ![caniuse added Samsung Internet](images/caniuse-added.png)
 
-<div class="caption">v4 was added to [caniuse](http://caniuse.com/) in July 2016 and v5 in May 2017 (tap 'View All'!)</div>
+<div class="caption">v4 was added to [caniuse](http://caniuse.com/) in July 2016 and v5 in May 2017 (tap 'Show All'!)</div>
 
 -- img-with-header pictureframe
 
@@ -512,21 +516,21 @@ Generally:
 
 #### [github.com/poshaughnessy/web-bluetooth-parrot-drone](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)
 
--- img-with-header
+-- img-with-header fromto
 
-## From...
+### From...
 
 ![Pictures under glass](images/pictures-under-glass.jpg)
 
 <div class="credit">[placeit](https://placeit.net/)</div>
 
--- img-with-header-and-caption
+-- img-with-header-and-caption fromto
 
-## To...
+### To... The Physical World, Mixed Reality & the Metaverse
 
 ![Physical web, mixed reality & the Metaverse](images/future-web.jpg)
 
-#### The Physical World, Mixed Reality & the Metaverse - [bit.ly/beyond-the-browser](https://bit.ly/beyond-the-browser)
+##### [bit.ly/beyond-the-browser](https://bit.ly/beyond-the-browser)
 
 <div class="credit">[Robert Couse-Baker](https://www.flickr.com/photos/29233640@N07/23787450049)</div>
 
