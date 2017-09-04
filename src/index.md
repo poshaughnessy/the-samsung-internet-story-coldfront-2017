@@ -475,7 +475,7 @@ Generally:
 
 -- line-dividers
 
-  > &ldquo;Best browser there is for Android.&rdquo;
+  > &ldquo;Awesome browser.&rdquo;
 
   ![Line divider](images/line-divider.svg)
 
@@ -551,6 +551,20 @@ Generally:
   ![Mystery](images/mystery-new-joiner.png)
   <h4>???</h4>
 </div>
+
+-- img-with-header pictureframe
+
+![PWA beginners' guide](images/pwa-beginners.jpg)
+
+#### [bit.ly/pwa-beginners-guide](https://bit.ly/pwa-beginners-guide)
+
+--
+
+## Continue...
+
+* **P**romoting diversity in tech
+* **W**riting docs, demos, tools
+* **A**dvocating the Web
 
 --
 
