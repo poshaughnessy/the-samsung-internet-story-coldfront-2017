@@ -508,7 +508,9 @@ Generally:
 
 -- img-with-header pictureframe
 
-TODO web drone in Samsung Internet
+![Web Drone](images/web-drone.gif)
+
+#### [github.com/poshaughnessy/web-bluetooth-parrot-drone](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)
 
 -- img-with-header
 
@@ -532,15 +534,16 @@ TODO web drone in Samsung Internet
 
 ![Samsung Internet full logo](images/samsunginternet-full-logo-dark.png)
 
--- img-with-header profile pictureframe
+-- img-with-header two-profiles pictureframe
 
-![Uve Tulsiani](images/uve.jpg)
-
-#### Uve Tulsiani ([@uveavanto](https://twitter.com/uveavanto))
-
---  img-with-header profile
-
-![Mystery](images/mystery-new-joiner.png)
+<div>
+  ![Uve Tulsiani](images/uve.jpg)
+  <h4>Uve Tulsiani ([@uveavanto](https://twitter.com/uveavanto))</h4>
+</div>
+<div>
+  ![Mystery](images/mystery-new-joiner.png)
+  <h4>???</h4>
+</div>
 
 --
 
