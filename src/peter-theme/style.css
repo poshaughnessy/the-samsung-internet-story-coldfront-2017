@@ -838,6 +838,10 @@ h2 + .quote {
   grid-row: row 2;
 }
 
+.flags img {
+  max-height: calc(100vh - 11em);
+}
+
 .v6_2.pictureframe img {
   max-height: calc(100vh - 12em);
 }

@@ -356,7 +356,7 @@ controls: false
       </div>
   </div>
   
-  <div class="caption">NB. Technically it was slightly more complicated, due to an ill-fated phone we don't like to talk about anymore ;-)</div>
+  <div class="caption">Chromium M51. NB. Technically slightly more complicated, due to a certain aforementioned, ill-fated phone!</div>
 
 -- cssgrid
 
@@ -386,17 +386,17 @@ controls: false
 
 -- img-with-header v6_2 pictureframe
 
-### &ldquo;For the first time, Samsung Internet available for all Android L+ phones!&rdquo;
+### v6.2 beta: Samsung Internet available for all Android L+ phones!
 
 ![v6.2 supports all Android L+ phones](images/v6.2-all-android.png)
 
-#### [bit.ly/samsung-internet-v6-2](https://bit.ly/samsung-internet-v6-2)
+#### [bit.ly/samsung-internet-v6-2](https://bit.ly/samsung-internet-v6-2) (Chromium M56)
 
 -- img-with-header pictureframe
 
 ![ZDNet article calling it the best Android browser](images/zdnet-best-android-browser.png)
 
-### [bit.ly/zdnet-thanks-samsung](https://bit.ly/zdnet-thanks-samsung)
+#### [bit.ly/zdnet-thanks-samsung](https://bit.ly/zdnet-thanks-samsung)
 
 -- line-dividers
   
@@ -410,13 +410,13 @@ controls: false
   
   > &ldquo;Seriously the best browser. It's really fast and smooth.&rdquo;
   
-  <div class="caption">Public feedback. Thanks! \*Blush\*</div>
+  <div class="caption">Public feedback 👍💪🙏</div>
 
 -- img-with-header pictureframe
 
 ![Engadget article saying it's inexplicable](images/engadget-inexplicable.png)
 
-### [bit.ly/engadget-inexplicable]()
+#### [bit.ly/engadget-inexplicable](https://www.engadget.com/2017/08/10/samsung-internet-opens-up-its-android-browser/)
 
 -- img-with-header google-analytics
 
@@ -430,11 +430,13 @@ controls: false
 
 <div class="credit">[giphy.com](https://giphy.com/gifs/thedudeperfectshow-cmt-the-dude-perfect-show-l3V0lsGtTMSB5YNgc)</div>
 
--- img-with-header
+-- img-with-header flags
+
+## `internet://flags`
 
 ![internet://flags](images/internet-flags.png)
 
-### `internet://flags` - Web Bluetooth, WebVR, WebGL 2 & more
+### Web Bluetooth, WebVR, WebGL 2 & more
 
 -- img-with-header
 
