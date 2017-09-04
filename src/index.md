@@ -71,11 +71,9 @@ controls: false
 
 #### Daniel Appelquist ([@torgo](https://twitter.com/torgo))
 
--- img-with-header profile pictureframe
-
-![Laszlo Gombos](images/laszlogombos.jpg)
-
-#### Laszlo Gombos ([@laszlogombos](https://twitter.com/laszlogombos))
+<!-- -- img-with-header profile pictureframe -->
+<!-- ![Laszlo Gombos](images/laszlogombos.jpg) -->
+<!-- #### Laszlo Gombos ([@laszlogombos](https://twitter.com/laszlogombos)) -->
 
 --
 
@@ -105,17 +103,17 @@ controls: false
 
 <div class="credit">[ThomasW](https://ideas.lego.com/profile/ThomasW)</div>
 
--- img-with-header profile pictureframe
+-- img-with-header two-profiles pictureframe
 
-![Ada Rose Edwards](images/adaedwards.jpg)
+<div> 
+  ![Ada Rose Edwards](images/adaedwards.jpg)
+  <h4>Ada Rose Edwards ([@lady_ada_king](https://twitter.com/lady_ada_king))</h4>
+</div>
 
-#### Ada Rose Edwards ([@lady_ada_king](https://twitter.com/lady_ada_king))
-
--- img-with-header profile pictureframe
-
-![Diego González-Zúñiga](images/diegogonzalez.jpg)
-
-#### Diego González-Zúñiga ([@diekus](https://twitter.com/diekus))
+<div>
+  ![Diego González-Zúñiga](images/diegogonzalez.jpg)
+  <h4>Diego González-Zúñiga ([@diekus](https://twitter.com/diekus))</h4>
+</div>
 
 -- img-with-header pictureframe
 

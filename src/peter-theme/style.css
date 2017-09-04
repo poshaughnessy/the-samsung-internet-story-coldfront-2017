@@ -678,6 +678,18 @@ h2 + .quote {
   max-width: 16%;
 }
 
+.two-profiles .slide-content {
+  display: flex;
+}
+
+.two-profiles .slide-content div {
+  flex-basis: 50%;
+}
+
+.pictureframe.two-profiles img {
+  width: 60%;
+}
+
 /* Slide specific styles here */
 
 #slide-1 img {
