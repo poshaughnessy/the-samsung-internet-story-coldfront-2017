@@ -786,6 +786,15 @@ h2 + .quote {
   padding-top: 1em;
 }
 
+.bidirectional h1 {
+  font-size: 5em;
+  margin-bottom: 0;
+}
+
+.bidirectional h2 {
+  margin-top: 0em;
+}
+
 .cssgrid .container {
   display: grid;
   grid-template: repeat(2, [row] 1fr) / repeat(4, [col] 1fr);

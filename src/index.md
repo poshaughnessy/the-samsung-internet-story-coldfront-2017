@@ -331,8 +331,14 @@ controls: false
 
 #### [bit.ly/browser-diversity](https://bit.ly/browser-diversity)
 
+-- img-with-header pictureframe
+
+![Diversity posts](images/diversity-posts.png)
+
+##### [medium.com/samsung-internet-dev](https://medium.com/samsung-internet-dev)
+
 -- history
-  
+
   <div class="container">
       <div>
         <h3>[v5 beta](https://medium.com/samsung-internet-dev/beta-d0f988fb77fb)</h3>
@@ -355,8 +361,24 @@ controls: false
         <p>[May 2017:](https://medium.com/samsung-internet-dev/announcing-samsung-internet-v5-4-stable-fd941e0dcd58) Launched with S8 (initially as v5.2) and soon after to all supported devices incl. Pixel & Nexus.</p>
       </div>
   </div>
-  
-  <div class="caption">Chromium M51. NB. Technically slightly more complicated, due to a certain aforementioned, ill-fated phone!</div>
+
+  <div class="caption">Chromium M51</div>
+
+--
+
+## Major releases twice per year
+
+* Beta launches (vx.2)
+* Stable initially ships with new flagship (vx.0)
+* Stable then released to all via app store (vx.2)
+
+<div class="caption">NB. v5 was slightly more complicated due to a certain aforementioned, ill-fated phone!</div></section>
+
+-- bidirectional
+
+# ↔️
+
+### Developer advocacy
 
 -- cssgrid
 
@@ -370,7 +392,7 @@ controls: false
   <div>D</div>
 </div>
 
-<div class="caption">[Supported in our latest beta](https://medium.com/samsung-internet-dev/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9)</div>
+<div class="caption">[Backported into our latest beta](https://medium.com/samsung-internet-dev/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9)</div>
 
 -- img-with-header pictureframe
 
@@ -399,18 +421,18 @@ controls: false
 #### [bit.ly/zdnet-thanks-samsung](https://bit.ly/zdnet-thanks-samsung)
 
 -- line-dividers
-  
+
   > &ldquo;Best browser there is for Android.&rdquo;
-  
+
   ![Line divider](images/line-divider.svg)
-  
+
   > &ldquo;FAST with content blockers enabled.&rdquo;
-  
+
   ![Line divider](images/line-divider.svg)
-  
+
   > &ldquo;Seriously the best browser. It's really fast and smooth.&rdquo;
-  
-  <div class="caption">Public feedback 👍💪🙏</div>
+
+  <div class="caption">Public feedback 👍💪🙏 (currently 4.6 ⭐ on Play Store)</div>
 
 -- img-with-header pictureframe
 
@@ -467,14 +489,8 @@ controls: false
 #### Uve Tulsiani ([@uveavanto](https://twitter.com/uveavanto))
 
 --  img-with-header profile
-   
+
 ![Mystery](images/mystery-new-joiner.png)
-
--- img-with-header pictureframe
-
-![Diversity posts](images/diversity-posts.png)
-
-##### [medium.com/samsung-internet-dev](https://medium.com/samsung-internet-dev)
 
 --
 
