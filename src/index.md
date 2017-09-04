@@ -41,22 +41,25 @@ controls: false
     <div>
       <h3>v1</h3>
       ![v1](images/sbrowser1.png)
-      <p><strong>2012:</strong> Originally based on AOSP. <strong>2013:</strong> Migrated to Chromium, launched with S4.</p>
+      <p>
+        <strong>2012:</strong> Based on AOSP. <strong>2013:</strong> Migrated to Chromium, launched with S4.
+        <em>Chromium M18 / M28 (v1.5)</em>
+      </p>        
     </div>
     <div>
       <h3>v2</h3>
       ![v2](images/sbrowser2.png)
-      <p><strong>2014:</strong> Launched with S5.</p>
+      <p><strong>2014:</strong> Launched with S5. <em>Chromium M34</em></p>
     </div>
     <div>
       <h3>v3</h3>
       ![v3](images/sbrowser3.png)
-      <p><strong>2015:</strong> Launched with S6. First version on the Play Store.</p>
+      <p><strong>2015:</strong> Launched with S6. 1st version on Play Store. <em>Chromium M38</em></p>
     </div>
     <div>
       <h3>v4</h3>
       ![v4](images/sbrowser4.png)
-      <p><strong>2016:</strong> Launched with S7. PWA support.</p>
+      <p><strong>2016:</strong> Launched with S7. PWA support. <em>Chromium M44</em></p>
     </div>
 </div>
 

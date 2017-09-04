@@ -723,10 +723,6 @@ h2 + .quote {
   margin-bottom: 1em;
 }
 
-.history .container p {
-  font-size: 0.9em;
-}
-
 .slide.goodcitizen:before {
   background-image: url(images/goodcitizen.jpg);
 }
