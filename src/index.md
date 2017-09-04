@@ -97,9 +97,13 @@ controls: false
 
 -- img-with-header pictureframe
 
+![PWA Dev Summit tweet](images/pwa-dev-summit.jpg)
+
+-- img-with-header pictureframe
+
 ![Lego A-Team](images/lego-a-team.jpg)
 
-#### Forming a team
+#### Forming A Team (Web Advocacy)
 
 <div class="credit">[ThomasW](https://ideas.lego.com/profile/ThomasW)</div>
 
@@ -120,6 +124,12 @@ controls: false
 ![Staines](images/staines-with-alig.jpg)
 
 ##### Staines, UK
+
+-- img-with-header pictureframe
+
+TODO team photo
+
+##### Samsung Internet team @ Samsung Digital City, Suwon
 
 -- simpsons pictureframe
 
@@ -216,6 +226,30 @@ controls: false
 ![Stack Overflow tag](images/stackoverflow-tag2.png)
 
 <div class="caption">[Stack Overflow tag](https://stackoverflow.com/questions/tagged/samsung-browser) (we also monitor mentions without the tag!)</div>
+
+-- img-with-header pictureframe
+
+![Github issues](images/github-issues.png)
+
+### [github.com/samsunginternet/support](https://github.com/samsunginternet/support)
+
+-- img-with-header pictureframe
+
+TODO picture of Samsung Internet Intro Guide
+
+#### [bit.ly/what-is-samsung-internet](https://bit.ly/what-is-samsung-internet)
+
+-- img-with-header picturefeame
+
+TODO picture of Dev Hub
+
+#### [samsunginter.net](https://samsunginter.net)
+
+-- img-with-header picturefeame
+
+TODO picture of Smashing Mag article and PPK?
+
+#### [smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/](https://www.smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/)
 
 -- img-with-caption pictureframe
 
@@ -368,41 +402,13 @@ controls: false
 
   <div class="caption">Chromium M51</div>
 
---
+-- img-with-header pictureframe
 
-## Major releases twice per year
-
-* Beta launches (vx.2)
-* Stable initially ships with new flagship (vx.0)
-* Stable then released to all via app store (vx.2)
-
-<div class="caption">NB. v5 was slightly more complicated due to a certain aforementioned, ill-fated phone!</div></section>
-
--- bidirectional
-
-# ↔️
-
-### Developer advocacy
-
--- cssgrid
-
-<div class="container">
-  <div>C</div>
-  <div>S</div>
-  <div>S</div>
-  <div>G</div>
-  <div>R</div>
-  <div>I</div>
-  <div>D</div>
-</div>
-
-<div class="caption">[Backported into our latest beta](https://medium.com/samsung-internet-dev/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9)</div>
+TODO DeX support
 
 -- img-with-header pictureframe
 
-![Github issues](images/github-issues.png)
-
-### [github.com/samsunginternet/support](https://github.com/samsunginternet/support)
+TODO PWA ambient badging (which version?)
 
 -- img-with-header pictureframe
 
@@ -417,6 +423,30 @@ controls: false
 ![v6.2 supports all Android L+ phones](images/v6.2-all-android.png)
 
 #### [bit.ly/samsung-internet-v6-2](https://bit.ly/samsung-internet-v6-2) (Chromium M56)
+
+-- release-schedule
+
+## Major releases twice per year
+
+Generally:
+
+* Beta launches (vx.2)
+* Stable initially ships with new flagship phone (vx.0)
+* Stable then released to all via app store (vx.2)
+
+-- cssgrid
+
+<div class="container">
+  <div>C</div>
+  <div>S</div>
+  <div>S</div>
+  <div>G</div>
+  <div>R</div>
+  <div>I</div>
+  <div>D</div>
+</div>
+
+<div class="caption">[Support backported in v6.2](https://medium.com/samsung-internet-dev/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9)</div>
 
 -- img-with-header pictureframe
 
@@ -463,6 +493,10 @@ controls: false
 ![internet://flags](images/internet-flags.png)
 
 ### Web Bluetooth, WebVR, WebGL 2 & more
+
+-- img-with-header pictureframe
+
+TODO web drone in Samsung Internet
 
 -- img-with-header
 
