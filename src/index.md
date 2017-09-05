@@ -369,7 +369,7 @@ controls: false
 
 <div class="caption">Mobile, worldwide ([StatCounter](http://gs.statcounter.com/browser-market-share/mobile/worldwide))</div>
 
-#### [bit.ly/think-you-know-the-top-browsers](https://bit.ly/think-you-know-the-top-browsers)
+#### [bit.ly/think-you-know-the-top-browsers](https://bit.ly/think-you-know-the-top-browsers) (blog post)
 
 -- browser-diversity
 
