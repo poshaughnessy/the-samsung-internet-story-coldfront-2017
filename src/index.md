@@ -435,6 +435,16 @@ controls: false
 
 ### [bit.ly/pwa-logo](https://bit.ly/pwa-logo)
 
+-- img-with-caption
+
+![WebVR Panda logo](images/panda-dino-battle.png)
+
+-- img-with-header stretch-img pictureframe
+
+![Panda chasing lion](images/panda-chasing-lion.gif)
+
+<div class="caption">[Samsung Internet versus Brave](https://twitter.com/poshaughnessy/status/902559842560303105)</div>
+
 -- img-with-header v6_2 pictureframe
 
 ### v6.2 beta: Samsung Internet for all Android L+ phones!
