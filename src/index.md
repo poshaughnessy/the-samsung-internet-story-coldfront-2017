@@ -371,8 +371,6 @@ controls: false
 
 #### [bit.ly/think-you-know-the-top-browsers](https://bit.ly/think-you-know-the-top-browsers) (blog post)
 
-<div class="credit">Desktop. Global world.</div>
-
 -- browser-diversity
 
 ## &ldquo;Because browser diversity is good for the Web&rdquo;
